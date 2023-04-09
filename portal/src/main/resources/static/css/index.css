@@ -1,0 +1,34 @@
+.contenedor-columnas{
+	width: 100%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.columnasx2{
+	width: 50%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: 0 auto;
+        
+        align: center;
+}
+
+.columnasx3{
+	width: 33.333%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: auto;
+        color: blue;
+}
+.columnasx3 img{
+	width: 100%;
+
+}
+#col-usuario {
+    color: #1e3120;
+}
+#col-cliente {
+    color: #0d347e;
+   
+}
